@@ -1,0 +1,47 @@
+<svg width="1440" height="350" viewBox="0 0 1440 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_93_1407)">
+<path d="M1080 25H990V-25L1080 25Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M990 25V-25H900L990 25Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M900 75H990V25L900 75Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M990 75L1080 25V75H990Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M720 75L900 -25H720V75Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M900 75L720 175V75H900Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1080 175H900V75L1080 175Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1260 75H1440L1260 -25V75Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1260 -25L1080 75V-25H1260Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1080 75V175L1260 75H1080Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1440 175V75L1260 175H1440Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M360 -25V75L180 -25H360Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M180 -25L0 75V-25H180Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M180 75V175H0L180 75Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M360 175L180 75H360V175Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M720 75V-25L540 75H720Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M540 75L360 -25V75H540Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M540 75V125L450 75H540Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M450 75V125H360L450 75Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M360 125V175H450L360 125Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M450 125V175L540 125H450Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M720 75L540 175H720V75Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M720 175H540L720 275V175Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M360 275L540 175H360V275Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M540 275V375L360 275H540Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M540 275L720 375H540V275Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M360 175L180 275H360V175Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M180 275V175L0 275H180Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M0 275V375L180 275H0Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M180 375L360 275H180V375Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1260 175H1440L1260 275V175Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1080 175L1260 275H1080V175Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1080 375L1260 275V375H1080Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1440 275H1260L1440 375V275Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1080 275H900V175L1080 275Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M900 275L720 175H900V275Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M900 375V275H720L900 375Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M1080 275H900V375L1080 275Z" stroke="#062314" stroke-width="2.5" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_93_1407">
+<rect width="1440" height="350" fill="white"/>
+</clipPath>
+</defs>
+</svg>

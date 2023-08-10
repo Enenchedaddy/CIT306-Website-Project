@@ -1,0 +1,179 @@
+a{
+  text-decoration: none;
+  color: white;
+}
+.select-ticket {
+  position: absolute;
+  top: 11.81rem;
+  left: calc(50% - 428px);
+  font-size: 3rem;
+  font-weight: 600;
+}
+.what-event-are {
+  margin: 0;
+}
+.what-event-are-container {
+  position: absolute;
+  top: 16.94rem;
+  left: calc(50% - 428px);
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.continue {
+  position: relative;
+  font-weight: 600;
+}
+.continue-wrapper {
+  position: absolute;
+  top: 72.56rem;
+  left: calc(50% - 223px);
+  background-color: #2ad46e;
+  display: flex;
+  flex-direction: row;
+  padding: 1.5rem 9.5rem;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.livestream-from-federal1,
+.online1 {
+  position: absolute;
+  top: 1.5rem;
+  left: calc(50% - 405px);
+  font-weight: 600;
+}
+.livestream-from-federal1 {
+  top: 12.5rem;
+  font-size: var(--font-size-5xl);
+}
+.frame-inner {
+  position: absolute;
+  top: 1.5rem;
+  left: 49.63rem;
+  border-radius: 50%;
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.online-group {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 53.63rem;
+  height: 15.81rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-13xl);
+}
+.online-ticket {
+  position: absolute;
+  top: 25.56rem;
+  left: calc(50% - 429px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.federal-university-of1 {
+  position: absolute;
+  top: 1.5rem;
+  left: calc(50% - 405px);
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+}
+.august-5th-7th1,
+.smat-auditorium1 {
+  position: absolute;
+  top: 12.5rem;
+  left: calc(50% - 405px);
+  font-weight: 600;
+}
+.smat-auditorium1 {
+  top: 9.69rem;
+}
+.federal-university-of-technolo-group {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 53.63rem;
+  height: 15.81rem;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: var(--font-size-5xl);
+}
+.in-person-ticket {
+  position: absolute;
+  top: 49.06rem;
+  left: calc(50% - 429px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.header-child {
+  position: relative;
+  width: 5.53rem;
+  height: 2.94rem;
+  object-fit: cover;
+}
+.about-us {
+  position: relative;
+  font-weight: 500;
+}
+.about-us-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs);
+  align-items: center;
+  justify-content: center;
+}
+.iconboldarrowright1 {
+  position: relative;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.primary-button {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-limegreen);
+  padding: var(--padding-5xs) var(--padding-base);
+  gap: var(--gap-base);
+  font-size: var(--font-size-lgi);
+}
+.frame-parent,
+.header,
+.primary-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent {
+  width: 44.63rem;
+  height: 2rem;
+  gap: var(--gap-5xl);
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: #060809;
+  width: 90rem;
+  padding: 2rem 4.38rem;
+  box-sizing: border-box;
+  gap: 32rem;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.ticket-choiceform {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 82.56rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
